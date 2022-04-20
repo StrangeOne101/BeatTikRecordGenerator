@@ -9,7 +9,7 @@ So, this app can generate some recordings for you to use in the [Video Battler](
 
 ## Usage
 
-1. Download the jar and double click it
+1. [Download the jar](https://github.com/StrangeOne101/BeatTikRecordGenerator/releases/download/v1.0/BeatTikRecordGenerator.jar) and double click it
 2. Follow the prompts to create as many random recordings as you want
 3. ???
 4. Profit.
